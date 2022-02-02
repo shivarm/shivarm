@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam</h1>
+ ## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shivam</h1>
 
 <a href="https://linkedin.com/in/meshivamsharma" target="blank">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
