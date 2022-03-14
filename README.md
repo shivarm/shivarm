@@ -19,3 +19,11 @@
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-sharma7&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-sharma7" /> </p>
+
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sansyrox&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansyrox&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+</a>
