@@ -3,9 +3,9 @@
 <a href="https://linkedin.com/in/meshivamsharma" target="_blank">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
-
-<a href="https://twitter.com/meshivamsharma" target="_blank">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+ 
+<a href="https://twitter.com/meshivamsharma">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
 
 <a href="mailto:meshivam81@gmail.com">
