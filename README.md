@@ -22,9 +22,7 @@
 <br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-sharma7&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-sharma7" /> </p>
-<br />
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
 
 
 <p align="left">
