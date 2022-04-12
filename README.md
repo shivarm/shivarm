@@ -1,32 +1,26 @@
- ## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,  I'm [Shivam!](https://bio.link/shivams)
 
-<a href="https://linkedin.com/in/meshivamsharma" target="_blank">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
- 
-<a href="https://twitter.com/meshivamsharma">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
-
-<a href="mailto:meshivam81@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://www.youtube.com/c/shivamsharma7" target="_blank">
-  <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-</a>
-
-<a href="https://instagram.com/meshivamsharma" target="_blank">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-</a>
- 
+ ## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,  I'm [Shivam!](https://bio.link/shivams) 
 <br />
-<br />
+
+## 👨‍💻 About Me
+
+My name is **Shivam Sharma** & I am a sophomore pursuing my Bachelor's in Computer Science From [Kashi Institute of technology ](https://www.chitkara.edu.in/) . I am a **FullStack Web Developer** & passionate about **Open Source** . Open to collaborate on Projects . I Believe in **Learn By Doing** . 
+
+<h1 align = "center">
+  
+  <a href="https://twitter.com/meshivamsharma" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/meshivamsharma/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:meshivam81@gmail.com" target="_blank"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-meshivam81@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
+</h1>
+
+ ## 📈 Stats
+
+<p align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivam-sharma7&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-sharma7&theme=tokyonight" />
+</p>
+<br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
-
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shivam-sharma7&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-sharma7&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
-</a>
