@@ -9,7 +9,7 @@ My name is **Shivam Sharma** & I am a sophomore pursuing my Bachelor's in Comput
   
   <a href="https://twitter.com/meshivamsharma" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> <a href="https://www.linkedin.com/in/meshivamsharma/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="mailto:meshivam81@gmail.com" target="_blank"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-meshivam81@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
+<a href="mailto:meshivam81@gmail.com" target="_blank"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 </h1>
 
