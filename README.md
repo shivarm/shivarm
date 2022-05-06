@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-My name is **Shivam Sharma** & I am a sophomore pursuing my Bachelor's in Computer Science From [Kashi Institute of technology ](https://www.kashiit.ac.in/) . I am a **FullStack Web Developer** & passionate about **Open Source** . Open to collaborate on Projects . I Believe in **Learn By Doing** . 
+My name is **Shivam Sharma** & I am a sophomore pursuing my Bachelor's in Computer Science From [Kashi Institute of technology ](https://www.kashiit.ac.in/) . I am a **Web Developer** & passionate about **Open Source** . Open to collaborate on Projects . I Believe in **Learn By Doing** . 
 
 ## [Connect with me 💬](https://bio.link/shivams)
 
