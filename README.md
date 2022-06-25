@@ -3,7 +3,7 @@
 
 ## About Me
 
-My name is **Shivam Sharma** & I am a sophomore pursuing my Bachelor's in Computer Science From [Kashi Institute of technology ](https://www.kashiit.ac.in/) . I am a **Web Developer** & passionate about **Open Source & DevOps** . Open to collaborate on Projects . I Believe in **Learn By Doing** . 
+ ![Black and Pink Animated Glitch Gaming Facebook Cover](https://user-images.githubusercontent.com/91419219/175784745-339f0e8d-2928-4436-b57b-7c53d4dc829f.svg)
 
 ## [Connect with me 💬](https://bio.link/shivams)
 
