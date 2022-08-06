@@ -3,7 +3,8 @@
 
 ## About Me
 
-  ![Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px)](https://user-images.githubusercontent.com/91419219/175785186-73ad5cbf-e52c-4082-bfca-0fae48a56eef.png)
+   ![Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px)](https://user-images.githubusercontent.com/91419219/183233742-905d17ec-62d2-4b87-a0b8-8343e6adb803.png)
+
 
 
 ## [Connect with me 💬](https://bio.link/shivams)
