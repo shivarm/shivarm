@@ -2,8 +2,8 @@
  ## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,  I'm [Shivam!](https://bio.link/shivams) 
 
 ## About Me
+   ![_yt banner](https://user-images.githubusercontent.com/91419219/183788734-e318b72a-e46d-4f50-85f8-1b65315b8ef8.png)
 
-   ![Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px) (1)](https://user-images.githubusercontent.com/91419219/183250122-851914c5-8bd3-44af-9a80-34e0879da913.png)
 
 
 
