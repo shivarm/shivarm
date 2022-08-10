@@ -1,12 +1,8 @@
 
  ## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,  I'm [Shivam!](https://bio.link/shivams) 
 
-## About Me
-   ![_yt banner](https://user-images.githubusercontent.com/91419219/183788734-e318b72a-e46d-4f50-85f8-1b65315b8ef8.png)
-
-
-
-
+## About Me 
+![b](https://user-images.githubusercontent.com/91419219/183790099-fd2380b2-495b-41d1-aae1-13a4abdca143.jpg)
 
 ## [Connect with me 💬](https://bio.link/shivams)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
