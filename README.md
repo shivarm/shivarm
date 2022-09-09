@@ -1,7 +1,7 @@
 
  ## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,  I'm [Shivam!](https://bio.link/shivams) 
   
-  ![Uploading Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px) (YouTube Banner) (2048 × 1152 px) (2560 × 1440 px) (Facebook Cover) (1660 × 576 px) (2560 × 1440 px) (LinkedIn Banner).jpg…]()
+   ![Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px) (YouTube Banner) (2048 × 1152 px) (2560 × 1440 px) (Facebook Cover) (1660 × 576 px) (2560 × 1440 px) (LinkedIn Banner)](https://user-images.githubusercontent.com/91419219/189389642-cca6b477-a8d2-48c2-b757-eb415d271924.jpg)
 
  
    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
