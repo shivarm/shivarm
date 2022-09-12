@@ -15,6 +15,6 @@ My name is **Shivam Sharma** and I am pursuing my Bachelor in Computer Applicati
  <a href="https://shivam-sharma.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></h1>
  
 ## 👨 I'm Currently..
-- I am learning Full stack Web Development  
+- Learning Full stack Web Development. 
 - Contributing to Open Source project.
 - Passionate about Devops and Machine Learning.
