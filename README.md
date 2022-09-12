@@ -13,3 +13,9 @@ My name is **Shivam Sharma** and I am pursuing my Bachelor in Computer Applicati
   <a href="https://twitter.com/shivamstwt1" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> <a href="https://www.linkedin.com/in/meshivamsharma/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  <a href="https://shivam-sharma.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></h1>
+ 
+## <Experience & Activity>
+- I am learning Full stack Web Development  
+- Contributing to Open Source project.
+- Passionate about Devops and Machine Learning.
+ 
