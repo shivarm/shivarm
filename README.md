@@ -6,7 +6,7 @@
  
    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
      
-## 👨‍💻 About Me.
+## 👨 About Me.
 My name is **Shivam Sharma** and I am pursuing my Bachelor in Computer Application from India 🎓 &nbsp;&nbsp;I am a **DevOps & Cloud Enthusiast** & also passionate about **Open Source** 💻  &nbsp;Believe in **Learning & Empowering Others.** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20">
 
 <h1 align = "center">
@@ -14,7 +14,7 @@ My name is **Shivam Sharma** and I am pursuing my Bachelor in Computer Applicati
 </a> <a href="https://www.linkedin.com/in/meshivamsharma/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  <a href="https://shivam-sharma.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></h1>
  
-## 👨 I'm Currently..
+## 👨‍💻 I'm Currently..
 - Learning Full stack Web Development. 
 - Contributing to Open Source project.
 - Passionate about Devops and Machine Learning.
