@@ -18,3 +18,8 @@ My name is **Shivam Sharma** and I am pursuing my Bachelor in Computer Applicati
 - Learning Full stack Web Development. 
 - Contributing to Open Source project.
 - Passionate about Devops and Machine Learning.
+
+---
+<!-- DEVTO-BLOG-LIST:START -->
+<!-- DEVTO-BLOG-LIST:END -->
+---
