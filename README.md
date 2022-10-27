@@ -10,7 +10,7 @@
 My name is **Shivam Sharma** and I am pursuing my Bachelor in Computer Application from India 🎓 &nbsp;&nbsp;I am a **DevOps & Cloud Enthusiast** & also passionate about **Open Source** 💻  &nbsp;Believe in **Learning & Empowering Others.** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20">
  <br>
  
-## 👨‍💻 I'm Currently..
+## 👨‍💻 I'm Currently.
 - **Learning Full stack Web Development.** 
 - **Contributing to Open Source project.**
 - **Passionate about Devops and Machine Learning.**
