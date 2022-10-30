@@ -13,7 +13,7 @@ My name is **Shivam Sharma** and I am pursuing my Bachelor in Computer Applicati
 ## 👨‍💻 I'm Currently.
 - **Learning Full stack Web Development.** 
 - **Contributing to Open Source project.**
-- **Passionate about Devops and Machine Learning.**
+- **Passionate about Devops & Cloud native**
 <br>
 <h1 align = "center">
   <a href="https://twitter.com/shivamstwt1" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
