@@ -7,7 +7,7 @@
    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
      
 ## 👨 About Me.
-My name is **Shivam Sharma** and I am pursuing my Bachelor in Computer Application from India 🎓 &nbsp;&nbsp;I am a **DevOps & Cloud Enthusiast** & also passionate about **Open Source** 💻  &nbsp;Believe in **Learning & Empowering Others.** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20">
+My name is **Shivam Sharma.** I am pursuing my sophomore Bachelor in Computer Application from India 🎓 &nbsp;&nbsp;I am **Learning full stack development** & also passionate about **Open Source** 💻  &nbsp;Believe in **Learning & Empowering Others.** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20">
  <br>
  
 ## 👨‍💻 I'm Currently.
