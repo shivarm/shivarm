@@ -16,7 +16,7 @@ My name is **Shivam Sharma.** I am pursuing my sophomore Bachelor in Computer Ap
 - **Passionate about Devops & Cloud native**
 - 
 ## 🏆 Achievement.
- [![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7)
+[![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7)
 
 <br>
 <h1 align = "center">
