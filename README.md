@@ -13,7 +13,7 @@
 ## 👨‍💻 I'm Currently.
 - **Learning Full stack Web Development.** 
 - **Contributing to Open Source project.**
-- **Passionate about Devops & Cloud native**
+- **Passionate about Devops**
 - 
 ## 🏆 Achievement.
 [![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7)
