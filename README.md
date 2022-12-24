@@ -1,21 +1,26 @@
 
- ## Hi, I am Shivam! Great to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
-  
-   ![Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px) (YouTube Banner) (2048 × 1152 px) (2560 × 1440 px) (Facebook Cover) (1660 × 576 px) (2560 × 1440 px) (LinkedIn Banner)](https://user-images.githubusercontent.com/91419219/189389642-cca6b477-a8d2-48c2-b757-eb415d271924.jpg)
+ ### Hi, I am Shivam! Great to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
+ 
+  ![Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px) (YouTube Banner) (2048 × 1152 px) (2560 × 1440 px) (Facebook Cover) (1660 × 576 px) (2560 × 1440 px) (LinkedIn Banner)](https://user-images.githubusercontent.com/91419219/189389642-cca6b477-a8d2-48c2-b757-eb415d271924.jpg)
 
- 
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
-     
-## 👨 About Me.
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
+  
+  --- 
+ ### 👨 About Me.
  My name is Shivam Sharma and I am a junior pursuing my Bachelor's in Computer Application from India 🎓 I am a DevOps & Cloud Enthusiast & also passionate about Open Source 💻, I Believe in Learning & Empowering Others.
- <br>
  
-## 👨‍💻 I'm Currently.
-- **Learning Full stack Web Development.** 
-- **Contributing to Open Source project.**
-- **Passionate about Devops**
-- 
-## 🏆 Achievement.
+---
+
+### Languages and tools ⚙️
+ 
+<p>
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50"/> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>  
+</p>
+
+---
+ 
+ 
+### 🏆 Achievement.
 [![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7)
 
 <br>
