@@ -7,7 +7,7 @@
   
   --- 
  ### 👨 About Me.
- My name is Shivam Sharma and I am a junior pursuing my Bachelor's in Computer Application from India 🎓 I am a DevOps & Cloud Enthusiast & also passionate about Open Source 💻, I Believe in Learning & Empowering Others.
+ My name is Shivam Sharma and I am Full stack Web Devloper and DevOps enthusiast also passionate about Open Source 💻, I Believe in Learning & Empowering Others.
  
 ---
 
