@@ -3,7 +3,8 @@
  ---
  ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science. </br>
-👨‍💻  I am passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things. </br>
+👨‍💻 I am passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things. </br>
+🖥️ I am currently contributing [Horreum](https://github.com/Hyperfoil/Horreum) and [Service Mesh](https://github.com/distributethe6ix/70DaysOfServiceMesh)
  <!-- ![Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px) (YouTube Banner) (2048 × 1152 px) (2560 × 1440 px) (Facebook Cover) (1660 × 576 px) (2560 × 1440 px) (LinkedIn Banner)](https://user-images.githubusercontent.com/91419219/189389642-cca6b477-a8d2-48c2-b757-eb415d271924.jpg)-->
  
 <br>
