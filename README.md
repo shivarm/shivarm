@@ -13,7 +13,6 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
   
   
-
 ### Languages and tools ⚙️
  
 <p>
