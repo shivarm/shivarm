@@ -6,6 +6,12 @@
 👨‍💻 I am passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things. </br>
 🖥️ I am currently contributing [Hyperfoil/Horreum](https://github.com/Hyperfoil/Horreum) and [70DaysOFServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh) Projects.
 
+<br>
+<div>
+  <a href="https://twitter.com/shivamstwt1" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/meshivamsharma/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <a href="https://shivam-sharma.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></div>
+
  <!-- ![Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px) (YouTube Banner) (2048 × 1152 px) (2560 × 1440 px) (Facebook Cover) (1660 × 576 px) (2560 × 1440 px) (LinkedIn Banner)](https://user-images.githubusercontent.com/91419219/189389642-cca6b477-a8d2-48c2-b757-eb415d271924.jpg)-->
  
 <br>
@@ -13,13 +19,15 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
   
   
-### Languages and tools ⚙️
+## Languages and tools ⚙️
+ ---
  
 <p>
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50"/><img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="46" height= "46" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" /><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="46" height="46"/>  
 </p>
 
-### 📕 Latest Blog Posts
+---
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started with Docker 2023 | What is Docker | Part- I](https://shivam-sharma.hashnode.dev/getting-started-with-docker-2023-what-is-docker-part-i)
@@ -31,11 +39,5 @@
 
 ---
  
-### 🏆 Achievement.
+## 🏆 Achievement.
 [![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7)
-
-<br>
-<div align = "center">
-  <a href="https://twitter.com/shivamstwt1" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> <a href="https://www.linkedin.com/in/meshivamsharma/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
- <a href="https://shivam-sharma.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></div>
