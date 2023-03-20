@@ -3,7 +3,9 @@
  ---
  ## About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science. </br>
+
 👨‍💻 I’m  passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things. </br>
+
 🖥️ I’m Open Source Developer at [Hyperfoil/Horreum](https://github.com/Hyperfoil/Horreum) and [70DaysOFServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh) Projects.
  
 <br>
