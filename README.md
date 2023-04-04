@@ -2,12 +2,13 @@
  ## Hi, I am [Shivam](https://bio.link/shivams)! Great to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
  
  ## About Me 🚀
-<strong>
  
 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science. I’m  passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things. I’m Open Source Developer at [Hyperfoil](https://github.com/Hyperfoil/Horreum) and member of this Org.
+ 
+ 
 
-</strong>
 <br>
+
 <div>
   <a href="https://twitter.com/shivamstwt1" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20"/>
 </a> <a href="https://www.linkedin.com/in/meshivamsharma/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="20"//>
