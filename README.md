@@ -4,9 +4,7 @@
  ## About Me 🚀
 <strong>
  
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science. </br>
-👨‍💻 I’m  passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things. </br>
-🖥️ I’m Open Source Developer at [Hyperfoil/Horreum](https://github.com/Hyperfoil/Horreum) and member of this Org.
+I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science. I’m  passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things. I’m Open Source Developer at [Hyperfoil/Horreum](https://github.com/Hyperfoil/Horreum) and member of this Org.
 
 </strong>
 <br>
