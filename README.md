@@ -18,7 +18,7 @@ I’m an Open-Source enthusiast & a pre final year student Bachelor's in Compute
  
 <br>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7)
+<!--  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7) -->
   
   
 ## Languages and tools ⚙️
