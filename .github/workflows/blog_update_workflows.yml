@@ -1,4 +1,4 @@
-name: Update Blog Posts
+name: Update My Blog Posts
 
 on:
   schedule:
