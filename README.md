@@ -3,7 +3,7 @@
  
  ## About Me 🚀
  
-I’m an Open-Source enthusiast & a pre final year student Bachelor's in Computer Application. I’m a Fullstack Web devloper 🧑‍💻 and passionate about Kubernetes, DevOps & I enjoy learning new things. I’m Open Source Developer at [Hyperfoil](https://github.com/Hyperfoil) and currently working on [Horreum Project](https://github.com/Hyperfoil/Horreum) and on other as well.
+I’m an Open-Source enthusiast & a pre final year student Bachelor's in Computer Application. I’m a Fullstack Web devloper 🧑‍💻 and passionate about Kubernetes, DevOps & I enjoy learning new things. I’m Open Source Developer at [Hyperfoil](https://github.com/Hyperfoil) and currently working on [Horreum Project](https://github.com/Hyperfoil/Horreum) and Contrbutor at [GSsoc'23](https://gssoc.girlscript.tech/) on [UMatter](https://github.com/MonalikaPatnaik/UMatter) Project.
 
 <br>
 
