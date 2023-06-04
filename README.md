@@ -4,14 +4,14 @@
  ## About Me 🚀
 * I’m a pre final year student Bachelor's in Computer Application, Fullstack WebDev 🧑‍💻 and passionate about Kubernetes, DevOps. 
 * I’m Open Source Developer at [Hyperfoil](https://github.com/Hyperfoil) and currently working on [Horreum Project](https://github.com/Hyperfoil/Horreum)
-* Contrbutor at [GSsoc'23](https://gssoc.girlscript.tech/) on [UMatter](https://github.com/MonalikaPatnaik/UMatter) Project.
+* Contrbutor at [GSsoc'23](https://gssoc.girlscript.tech/) on [UMatter](https://github.com/MonalikaPatnaik/UMatter) Project, improviing UI and implementing new components.
 
-<br>
+<!-- <br>
 
 <div>
   <a href="https://twitter.com/shivamstwt1" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"/>
 </a> <a href="https://www.linkedin.com/in/meshivamsharma/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"//>
- <a href="https://shivam-sharma.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25"/></a></div>
+ <a href="https://shivam-sharma.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25"/></a></div> -->
 
  <!-- ![Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px) (YouTube Banner) (2048 × 1152 px) (2560 × 1440 px) (Facebook Cover) (1660 × 576 px) (2560 × 1440 px) (LinkedIn Banner)](https://user-images.githubusercontent.com/91419219/189389642-cca6b477-a8d2-48c2-b757-eb415d271924.jpg)-->
  
