@@ -3,9 +3,7 @@
  
  ## About Me 🚀
 * I’m a pre final year student Bachelor's in Computer Application, Fullstack WebDev 🧑‍💻 and passionate about Kubernetes, DevOps. 
-
 * I’m Open Source Developer at [Hyperfoil](https://github.com/Hyperfoil) and currently working on [Horreum Project](https://github.com/Hyperfoil/Horreum)
-
 * Contrbutor at [GSsoc'23](https://gssoc.girlscript.tech/) on [UMatter](https://github.com/MonalikaPatnaik/UMatter) Project, improviing UI and implementing new components.
 
 <!-- <br>
