@@ -30,11 +30,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write a custom GitHub action- Part 2](https://shivam-sharma.hashnode.dev/how-to-write-a-custom-github-action-part-2)
 - [Getting Started with GitHub Actions- Part 1](https://shivam-sharma.hashnode.dev/getting-started-with-github-actions-part-1)
 - [DBMS  Tutorial Course  2023 | Database Management Crash Course | What is Database? | RDBMS](https://shivam-sharma.hashnode.dev/dbms-tutorial-course-2023-database-management-crash-course-what-is-database-rdbms)
 - [How To Dockerize An Application- Part II](https://shivam-sharma.hashnode.dev/how-to-dockerize-an-application-part-ii)
 - [Getting Started with Docker 2023 | What is Docker | Part- I](https://shivam-sharma.hashnode.dev/getting-started-with-docker-2023-what-is-docker-part-i)
-- [Top 16 Git Commands With Examples | Getting started with Git 2023](https://shivam-sharma.hashnode.dev/top-16-git-commands-with-examples-getting-started-with-git-2023)
 <!-- BLOG-POST-LIST:END -->
 
  
