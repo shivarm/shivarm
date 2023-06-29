@@ -2,7 +2,7 @@
  ## Hi, I am [Shivam](https://bio.link/shivams)! Great to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
  
  ## About Me 🚀
-* I’m a pre final year student Bachelor's in Computer Application, Fullstack WebDev 🧑‍💻 and passionate about Kubernetes, DevOps. 
+* I’m a Final year student Bachelor's of Computer Application, Fullstack WebDev 🧑‍💻 and passionate about Kubernetes, DevOps. 
 * I’m Open Source Contrbutor at [Hyperfoil](https://github.com/Hyperfoil) and member of this org, currently working on [Horreum Project](https://github.com/Hyperfoil/Horreum).
 * I’m Open Source Contrbutor at [Quarkiverse](https://github.com/quarkiverse) and working on [Quinoa](https://github.com/quarkiverse/quarkus-quinoa). This is a Quarkus extension which eases the development, the build and serving of single page apps (built with NodeJS: React, Angular, …) alongside Quarkus. 
 * Contrbutor at [GSsoc'23](https://gssoc.girlscript.tech/) on [UMatter](https://github.com/MonalikaPatnaik/UMatter) Project, improviing UI and implementing new components.
