@@ -1,8 +1,10 @@
 
  ## Hi, I am [Shivam](https://bio.link/shivams)! Great to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
  
- ## About Me 🚀
-* I’m a Final year student Bachelor's of Computer Application, Fullstack WebDev 🧑‍💻 and passionate about Kubernetes, DevOps. 
+ ### About Me 🚀
+* 🎓 I’m an Open-Source enthusiast & Final year pursuing my Bachelors in Computer Science.
+* 👨‍💻 I am passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things.
+### My Experiences 🙌
 * I’m Open Source Contrbutor and currently working on [Horreum Project](https://github.com/Hyperfoil/Horreum).
 * I’m Maintainer and Contrbutor, currently working on [Quinoa Project](https://github.com/quarkiverse/quarkus-quinoa). 
 
@@ -20,14 +22,14 @@
 <!--  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7) -->
   
   
-## Languages and tools ⚙️
+### Languages and tools ⚙️
  
 <p>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="45" height="45"/> <img src="https://github.com/get-icon/geticon/blob/master/icons/quarkus-icon.svg" alt="HTML Logo" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height= "40" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40" /><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="40" height="40"/>    
 </p>
 
 
-## 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with- Asynchronous JavaScript](https://shivam-sharma.hashnode.dev/getting-started-with-asynchronous-javascript)
@@ -38,5 +40,5 @@
 <!-- BLOG-POST-LIST:END -->
 
  
-## 🏆 Achievement.
+### 🏆 Achievement.
 [![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7)
