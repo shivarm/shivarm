@@ -5,8 +5,8 @@
 * 🎓 I’m an Open-Source enthusiast & Final year pursuing my Bachelors in Computer Science.
 * 👨‍💻 I am passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things.
 ### My Experiences 🙌
-* I’m Open Source Contrbutor and currently working on [Horreum Project](https://github.com/Hyperfoil/Horreum).
-* I’m Maintainer and Contrbutor, currently working on [Quinoa Project](https://github.com/quarkiverse/quarkus-quinoa). 
+* I’m Open Source Contrbutor and currently working on [Horreum Project](https://github.com/Hyperfoil/Horreum), associate with Red Hat
+* I’m Maintainer and Contrbutor, currently working on [Quinoa Project](https://github.com/quarkiverse/quarkus-quinoa), associate with Red Hat 
 
 <!-- <br>
 
