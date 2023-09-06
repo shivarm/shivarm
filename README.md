@@ -1,28 +1,14 @@
 
  ## Hi, I am [Shivam](https://bio.link/shivams)! Great to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
  
- ### About Me 🚀
+### About Me 🚀
 * 🎓 I’m an Open-Source enthusiast & Final year pursuing my Bachelors in Computer Science.
 * 👨‍💻 I am passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things.
 ### My Experiences 🙌
 * I’m Open Source Contrbutor and currently working on [Horreum Project](https://github.com/Hyperfoil/Horreum), associate with Red Hat
 * I’m Maintainer and Contrbutor, currently working on [Quinoa Project](https://github.com/quarkiverse/quarkus-quinoa), associate with Red Hat
 * GSsoc'23 Contributor worked on [UMatter](https://github.com/MonalikaPatnaik/UMatter) fixed lot of bugs and improved UI of website.
-
-<!-- <br>
-
-<div>
-  <a href="https://twitter.com/shivamstwt1" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"/>
-</a> <a href="https://www.linkedin.com/in/meshivamsharma/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"//>
- <a href="https://shivam-sharma.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25"/></a></div> -->
-
- <!-- ![Black and Pink Animated Glitch Gaming Facebook Cover (1640 × 500 px) (YouTube Banner) (2048 × 1152 px) (2560 × 1440 px) (Facebook Cover) (1660 × 576 px) (2560 × 1440 px) (LinkedIn Banner)](https://user-images.githubusercontent.com/91419219/189389642-cca6b477-a8d2-48c2-b757-eb415d271924.jpg)-->
- 
-<br>
-
-<!--  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7) -->
-  
-  
+    
 ### 🛠 &nbsp;Tech Stack
  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
@@ -50,6 +36,11 @@
 - [Getting Started with GitHub Actions- Part 1](https://shivam-sharma.hashnode.dev/getting-started-with-github-actions-part-1)
 <!-- BLOG-POST-LIST:END -->
 
- 
+### 📫 &nbsp; How to reach me:
+
+<a href="https://twitter.com/shivamstwt1/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/meshivamsharma/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:meshivam81@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
 <!--- ### 🏆 Achievement.
 [![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7) -->
