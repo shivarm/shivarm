@@ -23,11 +23,21 @@
 <!--  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-sharma7.shivam-sharma7) -->
   
   
-### Languages and tools ⚙️
+### 🛠 &nbsp;Tech Stack
  
-<p>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="45" height="45"/> <!--<img src="https://github.com/get-icon/geticon/blob/master/icons/quarkus-icon.svg" alt="HTML Logo" width="40" height="40"/>--> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height= "40" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="45" height="45"/> <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="40" height="40"/>    
-</p>
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)<br/>
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ### 📕 Latest Blog Posts
@@ -41,5 +51,5 @@
 <!-- BLOG-POST-LIST:END -->
 
  
-### 🏆 Achievement.
-[![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7)
+<!--- ### 🏆 Achievement.
+[![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7) -->
