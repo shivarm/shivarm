@@ -29,11 +29,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Typing your JavaScript without writing TypeScript](https://shivam-sharma.hashnode.dev/typing-your-javascript-without-writing-typescript)
 - [Javascript new Array Grouping Methods |  Array Grouping Methods](https://shivam-sharma.hashnode.dev/javascript-new-array-grouping-methods-array-grouping-methods)
 - [Getting started with dependabot- What is dependabot?](https://shivam-sharma.hashnode.dev/getting-started-with-dependabot-what-is-dependabot)
 - [Create a  Random Quotes Genarator with React  and Vite](https://shivam-sharma.hashnode.dev/create-a-random-quotes-genarator-with-react-and-vite)
 - [Getting started with- Asynchronous JavaScript](https://shivam-sharma.hashnode.dev/getting-started-with-asynchronous-javascript)
-- [How to write a custom GitHub action- Part 2](https://shivam-sharma.hashnode.dev/how-to-write-a-custom-github-action-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 &nbsp; How to reach me:
