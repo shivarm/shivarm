@@ -29,7 +29,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple CRUD app with Node, Express, and MongoDB | Getting started with NodeJS | Book store app Part 1](https://shivam-sharma.hashnode.dev/building-a-simple-crud-app-with-node-express-and-mongodb-getting-started-with-nodejs-book-store-app-part-1)
+- [Building a Simple CRUD app with Node, Express, and MongoDB | Getting started with NodeJS | Book store app](https://shivam-sharma.hashnode.dev/building-a-simple-crud-app-with-node-express-and-mongodb-getting-started-with-nodejs-book-store-app)
 - [Typing your JavaScript without writing TypeScript](https://shivam-sharma.hashnode.dev/typing-your-javascript-without-writing-typescript)
 - [Javascript new Array Grouping Methods |  Array Grouping Methods](https://shivam-sharma.hashnode.dev/javascript-new-array-grouping-methods-array-grouping-methods)
 - [Getting started with dependabot- What is dependabot?](https://shivam-sharma.hashnode.dev/getting-started-with-dependabot-what-is-dependabot)
