@@ -3,10 +3,11 @@
  
 ### About Me 🚀
 * 🎓 I’m an Open-Source enthusiast & Final year pursuing my Bachelors in Computer Science.
-* 👨‍💻 I am passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things.
+* 👨‍💻 I am passionate about Kubernetes, Web Development, DevOps & I enjoy learning new things.
 ### My Experiences 🙌
-* Contributor at [Horreum Project](https://github.com/Hyperfoil/Horreum), associate with Red Hat
-* Contributor at [Quinoa Project](https://github.com/quarkiverse/quarkus-quinoa), associate with Red Hat
+* Web Developer intern at [OpenBootcamp](https://www.theopenbootcamp.com/)
+* Contributor at [Horreum](https://github.com/Hyperfoil/Horreum), associate with Red Hat
+* Contributor at [Quinoa](https://github.com/quarkiverse/quarkus-quinoa), associate with Red Hat
 * GSsoc'23 Contributor, worked on [UMatter](https://github.com/MonalikaPatnaik/UMatter) fixed lot of bugs and improved UI of website.
     
 ### 🛠 &nbsp;Tech Stack
@@ -24,7 +25,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 
 ### 📕 Latest Blog Posts
 
