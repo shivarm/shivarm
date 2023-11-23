@@ -3,7 +3,7 @@
  
 ### About Me 🚀
 * 🎓 I’m an Open-Source enthusiast & Final year pursuing my Bachelors in Computer Science.
-* 👨‍💻 I am passionate about Kubernetes, Web Development, DevOps & I enjoy learning new things.
+* 👨‍💻 I am Full Stack developer and passionate about Kubernetes, DevOps & I enjoy learning new things.
 ### My Experiences 🙌
 * Software Engineer Intern at [OpenBootcamp](https://www.theopenbootcamp.com/)
 * Contributor at [Horreum](https://github.com/Hyperfoil/Horreum), associate with Red Hat
