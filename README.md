@@ -2,8 +2,8 @@
  ## Hi, I am [Shivam](https://bio.link/shivams)! Great to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
  
 ### About Me 🚀
-* 🎓 I’m an Open-Source enthusiast & Final year pursuing my Bachelors in Computer Science.
-* 👨‍💻 I am Full Stack developer and passionate about Kubernetes, DevOps & I enjoy learning new things.
+* 🎓 I'm Shivam Sharma from India and an an Open-Source enthusiast & Final year pursuing my Bachelors in Computer Science.
+* 👨‍💻 I am Full Stack developer, Learning Kubernetes, DevOps via contributing open source projects and hand on projects.
 ### My Experiences 🙌
 * Software Engineer Intern at [OpenBootcamp](https://www.theopenbootcamp.com/)
 * Contributor at [Horreum](https://github.com/Hyperfoil/Horreum), associate with Red Hat
@@ -13,17 +13,18 @@
 ### 🛠 &nbsp;Tech Stack
  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)<br/>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📕 Latest Blog Posts
