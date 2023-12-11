@@ -5,9 +5,8 @@
 * 🎓 I'm Shivam Sharma from India and an an Open-Source enthusiast & Final year pursuing my Bachelors in Computer Science.
 * 👨‍💻 I am Full Stack developer, Learning Kubernetes, DevOps via contributing open source projects and hand on projects.
 ### My Experiences 🙌
-* Software Engineer Intern at [OpenBootcamp](https://www.theopenbootcamp.com/)
-* Contributor at [Horreum](https://github.com/Hyperfoil/Horreum), associate with Red Hat
-* Contributor at [Quinoa](https://github.com/quarkiverse/quarkus-quinoa), associate with Red Hat
+* Contributor at [Hyperfoil/Horreum](https://github.com/Hyperfoil/Horreum), associate with Red Hat
+* Contributor at [quarkiverse/quarkus-quinoa](https://github.com/quarkiverse/quarkus-quinoa), associate with Red Hat
 * GSsoc'23 Contributor, worked on [UMatter](https://github.com/MonalikaPatnaik/UMatter) fixed lot of bugs and improved UI of website.
     
 ### 🛠 &nbsp;Tech Stack
