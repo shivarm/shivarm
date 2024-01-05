@@ -1,9 +1,10 @@
 
  ## Hi, I am [Shivam](https://bio.link/shivams)! Great to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
+
+ ----
+ I am a Full Stack developer. Learning Kubernetes, DevOps via contributing open source projects and passionate about helping people get into web development and sharing my learnings. 
  
-### About Me 🚀
-* 🎓 I'm Shivam Sharma from India and an an Open-Source enthusiast & Final year pursuing my Bachelors in Computer Science.
-* 👨‍💻 I am Full Stack developer, Learning Kubernetes, DevOps via contributing open source projects and hand on projects.
+---- 
 ### My Experiences 🙌
 * Contributor at [Hyperfoil/Horreum](https://github.com/Hyperfoil/Horreum), associate with Red Hat
 * Contributor at [quarkiverse/quarkus-quinoa](https://github.com/quarkiverse/quarkus-quinoa), associate with Red Hat
