@@ -2,13 +2,14 @@
  ## Hi, I am [Shivam](https://bio.link/shivams)! Great to see you here!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
 
  ----
- I am a Full Stack developer. Learning Kubernetes, DevOps via contributing open source projects and passionate about helping people get into web development and sharing my learnings. 
+ I am a Full Stack Web Developer. Learning Kubernetes, DevOps via contributing open source projects and passionate about helping people get into web dev, devOps and sharing my learnings via my [Blog](https://shivam-sharma.hashnode.dev/)
  
 ---- 
 ### My Experiences 🙌
-* Contributor at [Hyperfoil/Horreum](https://github.com/Hyperfoil/Horreum), associate with Red Hat
-* Contributor at [quarkiverse/quarkus-quinoa](https://github.com/quarkiverse/quarkus-quinoa), associate with Red Hat
-* GSsoc'23 Contributor, worked on [UMatter](https://github.com/MonalikaPatnaik/UMatter) fixed lot of bugs and improved UI of website.
+* Contributor at [Horreum](https://github.com/Hyperfoil/Horreum), associate with Red Hat
+* Contributor at [quarkus-quinoa](https://github.com/quarkiverse/quarkus-quinoa), associate with Red Hat
+* Contributor at [komiser](https://github.com/tailwarden/komiser), by tailwarden.
+* Contributor GSsoc'23 at [UMatter](https://github.com/MonalikaPatnaik/UMatter).
     
 ### 🛠 &nbsp;Tech Stack
  
