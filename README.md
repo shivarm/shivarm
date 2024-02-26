@@ -7,9 +7,8 @@
 ---- 
 ### My Experiences 🙌
 * Contributor at [Horreum](https://github.com/Hyperfoil/Horreum), associate with Red Hat
-* Contributor at [quarkus-quinoa](https://github.com/quarkiverse/quarkus-quinoa), associate with Red Hat
-* Contributor at [komiser](https://github.com/tailwarden/komiser), by tailwarden.
-* Contributor GSsoc'23 at [UMatter](https://github.com/MonalikaPatnaik/UMatter).
+* Contributor at [komiser](https://github.com/tailwarden/komiser), associate with tailwarden.
+* Contributor at [myuom](https://github.com/open-source-uom/myuom). by University of Macedonia.
     
 ### 🛠 &nbsp;Tech Stack
  
