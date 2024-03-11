@@ -30,11 +30,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Integration for Node.js full stack project | Node.js github actions](https://shivam-sharma.hashnode.dev/continuous-integration-for-nodejs-full-stack-project-nodejs-github-actions)
 - [Step By Step Guide To Dockerize React app with vite](https://shivam-sharma.hashnode.dev/step-by-step-guide-to-dockerize-react-app-with-vite)
 - [How to set up Middleware error handling in Node.js, express &amp; MongoDB](https://shivam-sharma.hashnode.dev/how-to-set-up-middleware-error-handling-in-nodejs-express-mongodb)
 - [Building a Simple CRUD app with Node, Express, and MongoDB | Getting started with NodeJS | Book store app](https://shivam-sharma.hashnode.dev/building-a-simple-crud-app-with-node-express-and-mongodb-getting-started-with-nodejs-book-store-app)
 - [Typing your JavaScript without writing TypeScript](https://shivam-sharma.hashnode.dev/typing-your-javascript-without-writing-typescript)
-- [Javascript new Array Grouping Methods |  Array Grouping Methods](https://shivam-sharma.hashnode.dev/javascript-new-array-grouping-methods-array-grouping-methods)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 &nbsp; How to reach me:
