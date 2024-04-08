@@ -6,9 +6,37 @@
  
 ---- 
 ### My Experiences 🙌
-* Contributor at [Horreum](https://github.com/Hyperfoil/Horreum), associate with Red Hat
-* Contributor at [komiser](https://github.com/tailwarden/komiser), associate with tailwarden.
-* Contributor at [myuom](https://github.com/open-source-uom/myuom). by University of Macedonia.
+ 
+<!-- markdownlint-disable sentences-per-line -->
+<table width="100%">
+	<thead>
+		<th span="col">Project ⚙️</th>
+		<th span="col">Description 📝</th>
+		<th span="col">Role 🧑‍🏭</th>
+		<th span="col">Stars ⭐</th>
+	</thead>
+	<tbody>
+		<tr>
+			<th span="row"><a href="https://github.com/open-source-uom/myuom">myuom</a></th>
+			<td>Find and fix problems in JavaScript and React.js code.</td>
+			<td>Contributor</td>
+   <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/open-source-uom/myuom"/></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/Hyperfoil/Horreum">Horreum</a></th>
+			<td>Find and fix problems in TypeScript and React.js code.</td>
+			<td>Contributor & Member</td>
+   <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/Hyperfoil/Horreum"/></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/tailwarden/komiser">komiser</a></th>
+			<td>Support for npm dependencies upgrades and fixing problem in React.js</td>
+			<td>Contributor</td>
+   <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/tailwarden/komiser"/></td>
+		</tr>   
+	</tbody>
+</table>
+ 
     
 ### 🛠 &nbsp;Tech Stack
  
