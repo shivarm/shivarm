@@ -6,11 +6,11 @@
  <a href="mailto:meshivam81@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
  ----
- I am a Full Stack Web Developer. Learning Kubernetes, DevOps via contributing open source projects and passionate about helping people get into web dev, devOps and sharing my learnings via my [Blog](https://shivam-sharma.hashnode.dev/)
+ I'm a Full Stack Web Developer. constantly learning and discovering new stuff and passionate about helping people get into web dev.
  
 ---- 
  
-### My Experiences 🙌
+### My Experiences 🧑‍💻
  
 <!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
@@ -42,22 +42,6 @@
 	</tbody>
 </table>
  
-    
-### Tech Stack 🛠 &nbsp;
- 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express) 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### Latest Blog Posts 📕
 
@@ -69,6 +53,22 @@
 - [Step By Step Guide To Dockerize React app with vite](https://shivam-sharma.hashnode.dev/step-by-step-guide-to-dockerize-react-app-with-vite)
 <!-- BLOG-POST-LIST:END -->
 
+### Tech Stack 🛠 &nbsp;
+ 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express) 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<!--![NodeJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp; -->
+<!--![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp; -->
 
 <!--- ### 🏆 Achievement.
 [![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7) -->
