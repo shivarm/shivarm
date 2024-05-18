@@ -30,15 +30,9 @@
 		<tr>
 			<th span="row"><a href="https://github.com/Hyperfoil/Horreum">Horreum</a></th>
 			<td>A Red Hat community project, find and fix problems in TypeScript and React.js code.</td>
-			<td>Contributor & Member</td>
+			<td>Member & Contributor</td>
    <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/Hyperfoil/Horreum"/></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/tailwarden/komiser">komiser</a></th>
-			<td>Support for npm dependencies upgrades and fixing problem in React.js</td>
-			<td>Contributor</td>
-   <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/tailwarden/komiser"/></td>
-		</tr>   
+		</tr>  
 	</tbody>
 </table>
  
