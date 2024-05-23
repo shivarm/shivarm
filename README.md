@@ -40,11 +40,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started- Creating Custom Higher-Order Functions](https://shivam-sharma.hashnode.dev/getting-started-creating-custom-higher-order-functions)
 - [How to fetch data from an API in ReactJS](https://shivam-sharma.hashnode.dev/how-to-fetch-data-from-an-api-in-reactjs)
 - [Getting Started with Rate Limiting in Express for Node.js | How to Implement Rate Limiting in Express for Node.js](https://shivam-sharma.hashnode.dev/getting-started-with-rate-limiting-in-express-for-nodejs-how-to-implement-rate-limiting-in-express-for-nodejs)
 - [Getting Started- Express.js with Typescript](https://shivam-sharma.hashnode.dev/getting-started-expressjs-with-typescript)
 - [Express.js- Production best practices | Best practices of Express.js 2024](https://shivam-sharma.hashnode.dev/expressjs-production-best-practices-best-practices-of-expressjs-2024)
-- [Continuous Integration for Node.js full stack project | Node.js github actions](https://shivam-sharma.hashnode.dev/continuous-integration-for-nodejs-full-stack-project-nodejs-github-actions)
 <!-- BLOG-POST-LIST:END -->
 
 ### Tech Stack 🛠 &nbsp;
