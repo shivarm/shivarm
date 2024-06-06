@@ -23,13 +23,13 @@
 	<tbody>
 		<tr>
 			<th span="row"><a href="https://github.com/open-source-uom/myuom">MyUoM</a></th>
-			<td>Software Team of Applied Informatics, University of Macedonia, find and fix problems in JavaScript and React.js code.</td>
+			<td>Software Team of Applied Informatics, University of Macedonia, Integrate backend using node.js, MySQL and fixing problems React.js frontend</td>
 			<td>Contributor</td>
    <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/open-source-uom/myuom"/></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/Hyperfoil/Horreum">Horreum</a></th>
-			<td>A Red Hat community project, find and fix problems in TypeScript and React.js code.</td>
+			<td>A Red Hat community project, fixing problems in TypeScript and React.js code.</td>
 			<td>Member & Contributor</td>
    <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/Hyperfoil/Horreum"/></td>
 		</tr>  
