@@ -22,14 +22,20 @@
 	</thead>
 	<tbody>
 		<tr>
+			<th span="row"><a href="https://github.com/profilecity/vidur">Vidur</a></th>
+			<td>Vidur - Recruiting OS for forward thinking companies. Optimizing docker build process and containerization</td>
+			<td>Contributor</td>
+   <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/profilecity/vidur"/></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/open-source-uom/myuom">MyUoM</a></th>
-			<td>Software Team of Applied Informatics, University of Macedonia, Integrate backend using node.js, MySQL and fixing problems React.js frontend</td>
+			<td>Software Team of Applied Informatics, University of Macedonia. Fixing problems React.js frontend and improving CSS style</td>
 			<td>Contributor</td>
    <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/open-source-uom/myuom"/></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/Hyperfoil/Horreum">Horreum</a></th>
-			<td>A Red Hat community project, fixing problems in TypeScript and React.js code.</td>
+			<td>A Red Hat community project. fixing problems in TypeScript and React.js code and migration</td>
 			<td>Member & Contributor</td>
    <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/Hyperfoil/Horreum"/></td>
 		</tr>  
