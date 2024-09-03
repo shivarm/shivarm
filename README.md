@@ -6,43 +6,17 @@
  <a href="mailto:meshivam81@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
  ----
- I'm a Full Stack Web Developer. constantly learning and discovering new stuff and passionate about helping people get into web dev.
+ I'm a full-stack developer with 2+ years experience, constantly learning and discovering new stuff. Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these projects for their projects and goal. I am constantly keeping track of new developments and bug fixes, responding to issues, and developing new features. 
  
 ---- 
  
 ### My Experiences 🧑‍💻
- 
-<!-- markdownlint-disable sentences-per-line -->
-<table width="100%">
-	<thead>
-		<th span="col">Project ⚙️</th>
-		<th span="col">Description 📝</th>
-		<th span="col">Role 🧑‍🏭</th>
-		<th span="col">Stars ⭐</th>
-	</thead>
-	<tbody>
-		<tr>
-			<th span="row"><a href="https://github.com/profilecity/vidur">Vidur</a></th>
-			<td>Vidur - Recruiting OS for forward thinking companies. Optimizing docker build process and containerization</td>
-			<td>Contributor</td>
-   <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/profilecity/vidur"/></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/open-source-uom/myuom">MyUoM</a></th>
-			<td>Software Team of Applied Informatics, University of Macedonia. Fixing problems React.js frontend and improving CSS style</td>
-			<td>Contributor</td>
-   <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/open-source-uom/myuom"/></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/Hyperfoil/Horreum">Horreum</a></th>
-			<td>A Red Hat community project. fixing problems in TypeScript and React.js code and migration</td>
-			<td>Member & Contributor</td>
-   <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/Hyperfoil/Horreum"/></td>
-		</tr>  
-	</tbody>
-</table>
- 
 
+- Open source contributor at [Vidur](https://github.com/profilecity/vidur) (Present)
+- Open source contributor at [MyUoM](https://github.com/open-source-uom/myuom) (Present)
+- Open source contributor at [Horreum](https://github.com/hyperfoil/horreum) (2023 - 2024)
+ 
+ 
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
@@ -55,7 +29,6 @@
 
 ### Tech Stack 🛠 &nbsp;
  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
