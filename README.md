@@ -10,14 +10,33 @@
  
 ---- 
  
-### My Experiences 🧑‍💻
+## My Experiences 🧑‍💻
 
 - Open source contributor at [Vidur](https://github.com/profilecity/vidur) (Present)
 - Open source contributor at [MyUoM](https://github.com/open-source-uom/myuom) (Present)
 - Open source contributor at [Horreum](https://github.com/hyperfoil/horreum) (2023 - 2024)
+
+
  
+## Tech Stack 🛠 &nbsp;
  
-### Latest Blog Posts 📕
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Go Lang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express) 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+
+<!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
+<!--![NodeJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp; 
+<!--![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp; -->
+
+## Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
 - [Avoiding Default Exports: A Guide for JavaScript Developers](https://shivam-sharma.hashnode.dev/avoiding-default-exports-a-guide-for-javascript-developers)
@@ -26,22 +45,6 @@
 - [Getting started- Creating Custom Higher-Order Functions](https://shivam-sharma.hashnode.dev/getting-started-creating-custom-higher-order-functions)
 - [How to fetch data from an API in ReactJS](https://shivam-sharma.hashnode.dev/how-to-fetch-data-from-an-api-in-reactjs)
 <!-- BLOG-POST-LIST:END -->
-
-### Tech Stack 🛠 &nbsp;
- 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express) 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<!--![NodeJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp; -->
-<!--![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp; -->
 
 <!--- ### 🏆 Achievement.
 [![@shivamsharma7's Holopin board](https://holopin.me/shivamsharma7)](https://holopin.io/@shivamsharma7) -->
