@@ -11,7 +11,7 @@
 ---- 
  
 ## My Experiences 🧑‍💻
-- Building a robust npm package [World-Clockify](https://github.com/shivam-sharma7/world-clockify) (Present)
+- Building a robust npm package [node-peruse](https://github.com/shivam-sharma7/node-peruse) (Present)
 - Core Team Member & contributor  at [Vidur](https://github.com/profilecity/vidur) (Present)
 - Open source contributor at [MyUoM](https://github.com/open-source-uom/myuom) (2023 - 2024)
 - Open source contributor at [Horreum](https://github.com/hyperfoil/horreum) (2023 - 2024)
