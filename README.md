@@ -11,9 +11,8 @@
 ---- 
  
 ## My Experiences 🧑‍💻
-- Building a robust npm package [node-peruse](https://github.com/shivam-sharma7/node-peruse) (Present)
-- Core Team Member & contributor  at [Vidur](https://github.com/profilecity/vidur) (Present)
-- Open source contributor at [MyUoM](https://github.com/open-source-uom/myuom) (2023 - 2024)
+- Open source contributor at [Zuplo](https://github.com/zuplo/zudoku) (2024 - Present)
+- Core Team & contributor at [Vidur](https://github.com/profilecity/vidur) (2024 - Present)
 - Open source contributor at [Horreum](https://github.com/hyperfoil/horreum) (2023 - 2024)
 
 
@@ -22,15 +21,15 @@
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Go Lang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express) 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
 <!--![NodeJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp; 
