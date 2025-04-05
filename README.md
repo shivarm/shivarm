@@ -11,9 +11,8 @@
 ---- 
  
 ## My Experiences 🧑‍💻
-- Open source contributor at [Zuplo](https://github.com/zuplo/zudoku) (2024 - Present)
-- Core Team & contributor at [Vidur](https://github.com/profilecity/vidur) (2024 - Present)
-- Open source contributor at [Horreum](https://github.com/hyperfoil/horreum) (2023 - 2024)
+- Core Team & contributor at [Vidur](https://github.com/profilecity/vidur) (Aug.2024 - Present)
+- Open source contributor at [Horreum](https://github.com/hyperfoil/horreum) (Feb.2023 - Aug.2024)
 
 
  
