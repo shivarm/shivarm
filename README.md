@@ -6,7 +6,7 @@
  <a href="mailto:meshivam81@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
  ----
- I'm a full-stack developer with 2+ years experience, constantly learning and discovering new stuff. Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these projects for their projects and goal. 
+ I'm a full-stack developer with 2+ years experience, constantly learning and discovering new stuff.
  
 ---- 
  
