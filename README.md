@@ -10,4 +10,4 @@ Hi, I am Shivam and I am a developer. 👋 Together with a team of incredibly ta
 
 ## Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,solidity,react,tailwindcss,aws,vercel,docker,githubactions,mongodb,git&perline=12)
+![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,rust,solidity,react,tailwindcss,aws,docker,githubactions,mongodb,git&perline=12)
